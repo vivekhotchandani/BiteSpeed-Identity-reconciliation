@@ -20,7 +20,7 @@ Built with **Express.js**, **TypeScript**, **Prisma**, and **PostgreSQL**.
 
 * **Identify Endpoint**:
   📬 POST → `/identify`
-  🔗 [Try it](https://bitespeed-identity-reconciliation-bzce.onrender.com/identify)
+  🔗 [Try it](https://bitespeed-identity-reconciliation-8zce.onrender.com/identify)
 
 ---
 
